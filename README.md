@@ -90,7 +90,7 @@ C++ Windows diagnostic application.
 
 ## 🧰 Stack
 
-![Stack](https://skillicons.dev/icons?i=django,nestjs,nodejs,cpp,python,postgres,mysql,sqllite,linux,git,unity)
+![Stack](https://skillicons.dev/icons?i=django,nestjs,nodejs,cpp,python,postgres,mysql,linux,git,unity)
 
 ---
 
