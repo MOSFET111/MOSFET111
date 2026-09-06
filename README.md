@@ -18,7 +18,7 @@ Backend Architect • Engine Builder • System Designer
 - Low-level diagnostic tools
 - Service-oriented backend cores
 
-If it is not almost impossible, it Ain't that intresting.
+If it is not almost impossible, it Ain't that interesting.
 
 ---
 
